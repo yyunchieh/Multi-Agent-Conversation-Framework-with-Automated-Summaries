@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "multi_agent_conversation": "./agent.py:app"
+  },
+  "env": ".env",
+  "python_version": "3.11"
+}
